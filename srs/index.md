@@ -1,5 +1,5 @@
 ---
-permalink: /srs/index.md
+permalink: /srs
 redirect_to:
-  - https://intel-tools.github.io/srs/index.md
+  - https://intel-tools.github.io/srs
 ---
